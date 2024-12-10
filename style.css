@@ -34,13 +34,13 @@ body{
     justify-content: space-between;
     height: 560px;
     width: 560px;
-    border:solid 16px white;
+    border:solid 16px black;
     margin-top: 24px;
     margin-right: auto;
     margin-left: auto;
     padding: 0px;
     border-radius: 10px;
-    background-color: #b6b6b6;
+    background-color: white;
 }
 
 div{
